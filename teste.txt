@@ -1,0 +1,40 @@
+Grupo I: Produtos de panificação, cereais, leguminosas, raízes, tubérculos e seus derivados (Valor energético médio da porção é 150 kcal).
+Grupo II: Verduras, hortaliças e conservas vegetais (Valor energético médio da porção é 30 kcal).
+Grupo III: Frutas, sucos, néctares e refrescos de frutas (Valor energético médio da porção é 70 kcal).
+Grupo IV: Leites e derivados (Valor energético médio da porção é 125 kcal).
+Grupo V: Carnes e ovos (Valor energético médio da porção é 125 kcal).
+Grupo VI: Óleos, gorduras e sementes oleaginosas (Valor energético médio da porção é 100 kcal).
+Grupo VII: Açúcares e produtos com energia proveniente de carboidratos e gorduras (Valor energético médio da porção é 100 kcal).
+Grupo VIII: Molhos, temperos prontos, caldos, sopas, pratos semiprontos ou prontos para consumo e bebidas alcoólicas.
+
+
+INSERT INTO `alimentos` (`id_alimento`, `nome`, `porcoes`, `medida_caseira`, `cod_grupos`) VALUES (NULL, 'Arroz cru', '50 g', 'Xícaras', '1');
+
+
+
+Aveia em flocos sem outros ingredientes
+30 g
+Colheres de sopa
+
+Barra de cereais com até 10% de gordura
+30 g
+Unidades
+
+Batata, mandioca e outros tubérculos,cozidos em água embalada à vácuo
+150 g
+Unidades ou xícara
+
+Batata e mandioca pré-frita congelada
+85 g
+Unidades ou
+xícaras
+Produtos à base de tubérculos e cereais
+85 g
+Unidades
+pré-fritos ou congelados
+Biscoito salgados, integrais e grissines
+30 g
+Unidades
+Bolos, todos os tipos sem recheio
+60 g
+Fatia ou fração
